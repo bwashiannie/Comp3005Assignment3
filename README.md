@@ -14,7 +14,7 @@ A Java application that demonstrates CRUD operations using pure JDBC and Postgre
 
 ## Video Demonstration
 
-link: 
+link: https://youtu.be/xVsd90or6ew
 
 ## Prerequisites
 
